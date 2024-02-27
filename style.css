@@ -1,12 +1,3 @@
-#titulo{
-    color: rgb(78, 0, 151);
-    text-align: left;
-    padding-left: 35px;
-}
-#imagem{
-    padding-left: 35px;
-    display: flex;
-}
 #especificacoes{
     display: flex;
     align-items: left;
